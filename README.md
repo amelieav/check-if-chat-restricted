@@ -6,5 +6,8 @@ When coding a discord bot, I wanted it to be able to extract text from screensho
 
 While limited in it's accuracy, it is able to recognise most of the time whether a screenshot is of a chat restriction warning. Included is also a .js file for calling it in JavaScript.
 
+## Object to search for
 ![image](https://github.com/amelieav/check-if-chat-restricted/assets/46671035/826d521e-0c42-4154-a864-731a6a48a63f)
+
+## Example of a screenshot that could be sent, and recognised in the server
 ![image](https://github.com/amelieav/check-if-chat-restricted/assets/46671035/bb3c9d70-f320-4bd5-86d1-b04747a053aa)
